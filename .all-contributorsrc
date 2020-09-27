@@ -2,13 +2,24 @@
   "projectName": "fiddly-test",
   "projectOwner": "grammer23",
   "repoType": "github",
-  "repoHost": "https://github.com/grammer23/fiddly-test",
+  "repoHost": "https://github.com",
   "files": [
     "readme.md"
   ],
   "imageSize": 120,
   "commit": true,
   "commitConvention": "gitmoji",
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "satyawikananda",
+      "name": "I Gusti Ngurah Satya Wikananda",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33148052?v=4",
+      "profile": "https://satyawikananda.tech",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
