@@ -7,6 +7,7 @@
     "build": "fiddly"
   },
   "devDependencies": {
+    "all-contributors-cli": "^6.17.4",
     "fiddly": "^0.9.1"
   },
   "fiddly": {

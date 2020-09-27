@@ -1,6 +1,14 @@
 {
-    "files": [
-        "readme.md"
-    ],
-    "imageSize": 120,
+  "projectName": "fiddly-test",
+  "projectOwner": "grammer23",
+  "repoType": "github",
+  "repoHost": "https://github.com/grammer23/fiddly-test",
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 120,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [],
+  "contributorsPerLine": 7
 }
